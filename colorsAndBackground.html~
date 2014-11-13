@@ -22,29 +22,27 @@
 }
 
 #swatch1 {
-background-color: #472D38;
 
 }
 
 #swatch2 {
-background-color: #72AD97
+
 }
 
 #swatch3 {
-background-color: #D6D9BA
+
 }
 
 #swatch4 {
-background-color: #E6AF83
+
 }
 
 #swatch5 {
-background-color: #D16C5C
+
 }
 
 #exercise3 {
-background-image: url("star.png");
-background-position: center;
+
 }
 </style>
 </head>
